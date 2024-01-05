@@ -1,0 +1,23 @@
+.text-centered {  
+   text-align: center;
+ }
+
+body {
+  color:black
+}
+
+.background {
+  background-color: grey;
+}
+
+.box {
+  color: #bd7905;
+  margin: 20px 10%;
+  background-color: gray;
+  padding: 12px;
+  font-family: arial, sans-serif;
+}
+
+.tm {
+  border: 1px solid black
+}
